@@ -3,7 +3,7 @@ ifhappy= True
 
 if ifhappy==True:
     print("You are the happy")
-elif ishappy==False:
+elif ifhappy ==False:
     print("you are no longer happy")
 else:
     print("you are just numb")
